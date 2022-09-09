@@ -1,3 +1,4 @@
+str_sign = 'aquarius'
 
-def count():
-    print(37)
+def count(string):
+    print(string)
