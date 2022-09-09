@@ -1,3 +1,3 @@
-age = 30
+
 def count(age):
-    print(age)
+    print('Counting the countless ' + age)
