@@ -1,2 +1,6 @@
-def count():
-    print('30')
+name = input()
+
+
+def future(name):
+    print('You will have a long life ' + name)
+
