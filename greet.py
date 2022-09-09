@@ -1,2 +1,2 @@
 def greet(parameter):
-    print('Hello' + parameter)
+    print('Hello all')
