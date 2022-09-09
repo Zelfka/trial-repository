@@ -1,2 +1,2 @@
 def cheer():
-    print('team C')
+    print('English')
