@@ -1,2 +1,5 @@
-def cheer(greeting):
-    print(greeting)
+
+def cheer():
+    print('English')
+
+
