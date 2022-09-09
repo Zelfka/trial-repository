@@ -1,3 +1,3 @@
 
-def count(chinese_horoscope_sign):
-    print(chinese_horoscope_sign)
+def future(my_future):
+    print(my_future)
