@@ -1,3 +1,4 @@
-def count():
-    print("30")
-count()
+age = 30
+def count(age):
+    print(age)
+count(age)

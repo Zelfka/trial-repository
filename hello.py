@@ -1,2 +1,2 @@
-def cheer():
-    print('team C')
+def cheer(greeting):
+    print(greeting)
